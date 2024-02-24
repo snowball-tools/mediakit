@@ -1,1 +1,3 @@
-# mediakit
+# snowball tools media kit
+
+WIP
